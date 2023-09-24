@@ -4,6 +4,6 @@
 
 """
 
-for numero in range(1, 51):
-    if numero % 2 != 0:
-        print(numero)
+for num in range(1, 51):
+    if num % 2 != 0:
+        print(num)
